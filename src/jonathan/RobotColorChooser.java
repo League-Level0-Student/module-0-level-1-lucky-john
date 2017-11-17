@@ -1,3 +1,4 @@
+package jonathan;
 /*    Copyright (c) The League of Amazing Programmers 2013-2017
 *    Level 0
 */
@@ -7,7 +8,7 @@ import org.jointheleague.graphical.robot.Robot;
 import java.awt.Color;
 
 
-public class RobotColorChooser {
+class RobotColorChooser {
 	public static void main(String[] args) {
 
 		//3. ask the user what color they would like the robot to draw

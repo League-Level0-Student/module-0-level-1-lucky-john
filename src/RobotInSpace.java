@@ -12,7 +12,7 @@
 	import javax.sound.sampled.AudioSystem; 
 	import javax.sound.sampled.Clip;
 
-import org.jointheleague.graphical.robot.Robot;
+	import org.jointheleague.graphical.robot.Robot;
 
 	
 	public class RobotInSpace implements KeyEventDispatcher {
